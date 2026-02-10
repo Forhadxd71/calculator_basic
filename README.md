@@ -1,4 +1,4 @@
-**# 🧮 Basic Calculator in C++
+# 🧮 Basic Calculator in C++
 
 A simple console-based calculator written in C++ that performs basic arithmetic operations with input validation and session handling.
 
@@ -37,7 +37,7 @@ If you are using Code::Blocks, you can run the program directly from the IDE:
 
 Enjoy using the calculator 🚀
 
-# 📖 How to Use
+## 📖 How to Use
 
 **1. Run the program**
 
@@ -53,7 +53,7 @@ Enjoy using the calculator 🚀
 
 <img width="362" height="133" alt="image" src="https://github.com/user-attachments/assets/064210dc-c3c0-4af6-ab53-0f59396e1c33" />
 
-# 🛡️ Input Validation
+## 🛡️ Input Validation
 **The program checks for:**
 
 **Non-numeric inputs**
@@ -64,14 +64,14 @@ Enjoy using the calculator 🚀
 
 **This prevents crashes and unexpected behaviors.**
 
-# 🧩 Project Structure
+## 🧩 Project Structure
 **📁 Basic-Calculator**
 
  **├── calculator.cpp**
  
  **└── README.md**
 
- # 👨‍💻 Author
+ ## 👨‍💻 Author
  **Md.Forhad Hossain Mahamud**
  
  **GitHub:** https://github.com/Forhadxd71
