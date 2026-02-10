@@ -73,4 +73,5 @@ Enjoy using the calculator 🚀
 
  # 👨‍💻 Author
  **Md.Forhad Hossain Mahamud**
- **GitHub:** https://github.com/Forhadxd71**
+ 
+ **GitHub:** https://github.com/Forhadxd71
